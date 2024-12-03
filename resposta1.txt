@@ -3,4 +3,8 @@ Web no contexto da evolução da internet. Como essas tecnologias
 mudaram a forma como a informação é compartilhada
 globalmente?
 
-A World Wide Web é um padrão para compartilhamento de informação na internet, que se baseia na ideia de hipertexto. HTML é a linguagem base para a web, que permite a criação de documentos com hipertexto. O surgimento dessas tecnologias foi uma revolução no uso da Internet, por facilitar ainda mais o compartilhamento de informações.
+A World Wide Web é um padrão para compartilhamento de informação 
+na internet, que se baseia na ideia de hipertexto. HTML é a linguagem
+base para a web, que permite a criação de documentos com hipertexto. 
+O surgimento dessas tecnologias foi uma revolução no uso da Internet,
+por facilitar ainda mais o compartilhamento de informações.

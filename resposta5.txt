@@ -3,3 +3,11 @@ de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
 
+Minha abordagem seria, inicialmente, definir os requisitos do projeto. 
+Utilizando como base os requisitos, mas também as experiências minhas 
+e da minha dupla, decidiria as linguagens e tecnologias a serem adotadas.
+O próximo passo seria a divisão das tarefas, com o registro em alguma 
+ferramenta, e, com isso, criaria um repositório no GitHub. As práticas de
+versionamento incluiriam o uso de commits de forma organizada e clara, a 
+criação de branches para cada feature e a revisão de código pela outra 
+pessoa da dupla.

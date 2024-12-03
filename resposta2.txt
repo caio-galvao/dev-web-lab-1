@@ -2,3 +2,9 @@
 desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
 
+HTML, CSS e JavaScript são as três ferramentas básicas para o 
+desenvolvimento web. Os documentos HTML são a base de uma página
+web, definindo a sua estrutura, como títulos, parágrafos, hipertexto
+e imagens. O CSS é utilizado para melhorar aspectos visuais da página,
+com muitas possibilidades de configuração. Já JavaScript é a linguagem
+de programação, permitindo a adição de lógica e interatividade. 

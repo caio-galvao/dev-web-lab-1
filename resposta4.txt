@@ -2,4 +2,7 @@
 Por que ele é considerado uma linguagem essencial para a
 criação de sites interativos?
 
-JavaScript é linguagem de programação padrão para desenvolvimento front-end, sendo utilizada em conjunto com HTML e CSS e executada diretamente no browser. Justamente por ser uma linguagem de programação, ela consegue adicionar elementos interativos aos sites.
+JavaScript é a linguagem de programação padrão para desenvolvimento 
+front-end, sendo utilizada em conjunto com HTML e CSS e executada 
+diretamente no browser. Justamente por ser uma linguagem de programação, 
+ela consegue adicionar elementos interativos às páginas web.
